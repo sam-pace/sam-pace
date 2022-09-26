@@ -1,10 +1,10 @@
-### Oláá, Eu sou o Samuel Pace 👋
+### Oláá, Eu sou o Sam 👋
 
 <div>
 
-<img hegiht="200em" src="https://github-readme-stats.vercel.app/api?username=sam-pace&theme=midnight-purple&show_icons=true)(https://github.com/anuraghazra/github-readme-stats">
+<img  width="43%" src="https://github-readme-stats.vercel.app/api?username=sam-pace&theme=midnight-purple&show_icons=true)(https://github.com/anuraghazra/github-readme-stats">
 
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-pace&layout=compact&theme=midnight-purple&)(https://github.com/anuraghazra/github-readme-stats">
+<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-pace&layout=compact&theme=midnight-purple&)(https://github.com/anuraghazra/github-readme-stats">
 
 </div>
 
