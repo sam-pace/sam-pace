@@ -4,7 +4,7 @@
 
 🖥️ Front-end Dev
 
-⚙️ Back-end in progress
+⚙️ Back-end (in progress)
 
 🐱 Catlover
 
