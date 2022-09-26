@@ -9,7 +9,7 @@
 </div>
 
  ##
- 
+ <h4>Vamos trocar umas ideais :)</h4>
 <a href="https://www.linkedin.com/in/samuel-pace-dsgn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
  ##
