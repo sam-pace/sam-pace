@@ -1,5 +1,16 @@
 ### Oláá, Eu sou o Sam 👋
 
+🔍 UX/UI Designer
+
+🖥️ Front-end Dev
+
+⚙️ Back-end in progress
+
+🐱 Catlover
+
+🏎️ Gearhead
+
+
 <div align="center">
 
 <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=sam-pace&theme=midnight-purple&show_icons=true)(https://github.com/anuraghazra/github-readme-stats">
