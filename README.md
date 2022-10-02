@@ -1,4 +1,4 @@
-### Oláá, Eu sou o Sam 👋
+### Olá, Eu sou o Sam 👋
 
 🔍 UX/UI Designer
 
