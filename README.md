@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img  width="48%" src="https://github-readme-stats.vercel.app/api?username=sam-pace&theme=midnight-purple&show_icons=true)(https://github.com/anuraghazra/github-readme-stats">
+<!-- <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=sam-pace&theme=midnight-purple&show_icons=true)(https://github.com/anuraghazra/github-readme-stats"> -->
 
 <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-pace&layout=compact&theme=midnight-purple&)(https://github.com/anuraghazra/github-readme-stats">
 
@@ -33,5 +33,5 @@
 
  ##
 
-![snake gif](https://github.com/sam-pace/sam-pace/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/sam-pace/sam-pace/blob/output/github-contribution-grid-snake.svg) -->
 
