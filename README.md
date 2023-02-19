@@ -2,9 +2,9 @@
 
 🔍 UX/UI Designer
 
-🖥️ Front-end Dev
+🖥️ Front-end
 
-⚙️ Back-end (in progress)
+⚙️ Back-end
 
 🐱 Catlover
 
