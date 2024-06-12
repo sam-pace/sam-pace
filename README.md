@@ -1,10 +1,9 @@
-### Olá, Eu sou o Sam 👋
+### Olá 👋
 
 🖥️ Front-end
 
 ⚙️ Back-end
 
-🔍 UX/UI Designer
+🔍 UX/UI basics
 
-🐱 Catlover
 
