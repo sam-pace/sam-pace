@@ -1,0 +1,25 @@
+name: Update Greeting
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Exec greeting
+        run: node greeting.js
+
+      - name: Commit n push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "update greeting on README"
