@@ -2,7 +2,10 @@ name: Update Greeting
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
 
 jobs:
   atualizar:
@@ -16,10 +19,16 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Exec greeting
+      - name: Executar greeting.js
         run: node greeting.js
 
-      - name: Commit n push
+      - name: Configurar usuário Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit e Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "update greeting on README"
+          branch: main
